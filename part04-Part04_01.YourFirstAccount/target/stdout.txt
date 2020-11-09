@@ -1,0 +1,3 @@
+Initial state
+EasyMock for class Account
+The balance of my account is now EasyMock for class Account
